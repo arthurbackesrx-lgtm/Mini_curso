@@ -1,1 +1,1 @@
-# Mini_curso
+git hub na pratica
